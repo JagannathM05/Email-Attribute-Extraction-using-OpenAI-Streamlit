@@ -1,0 +1,41 @@
+Subject: Re: Product Received Damaged
+From: john.doe@example.com
+To: support@store.com
+Date: 2025-03-23 9:30 AM
+
+Dear Support,
+
+I have attached a photo of the damaged mobile along with the packaging. Please let me know the next steps to get the replacement.
+
+Thanks,
+John Doe
+
+---------------------------------------------------
+
+Subject: Re: Product Received Damaged
+From: support@store.com
+To: john.doe@example.com
+Date: 2025-03-22 11:45 AM
+
+Dear John,
+
+Thank you for reaching out. We're sorry to hear that the product arrived damaged. Could you please provide us with a photo of the damaged item and the packaging? Once we have that, we can initiate the return process and send a replacement.
+
+Best regards,
+Customer Support Team
+
+---------------------------------------------------
+
+Subject: Product Received Damaged
+From: john.doe@example.com
+To: support@store.com
+Date: 2025-03-22 10:15 AM
+
+Dear Support,
+
+I recently purchased a product from your online store (Order #12333) and received it in a damaged condition. The packaging was intact, but the item itself was broken.
+
+Please advise on how we can resolve this issue.
+
+Regards,
+John Doe
